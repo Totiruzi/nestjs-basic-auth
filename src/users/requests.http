@@ -1,0 +1,15 @@
+
+POST http://localhost:3000/auth/signup
+
+{
+  "email": "gab@onowu.dev",
+  "password": "gab"
+}
+
+
+POST http://localhost:3000/auth/signup
+
+{
+  "email": "dan@onowu.dev",
+  "password": "dan"
+}
